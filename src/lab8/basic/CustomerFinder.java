@@ -1,6 +1,8 @@
 package lab8.basic;
 
 
+import lab8.generics.shop.GenericsTester1;
+
 import java.io.*;
 import java.util.Scanner;
 
@@ -125,8 +127,8 @@ public class CustomerFinder
 	   //Your code here
         //my code is here hola que tal como estas
         Integer i = new Integer(3);
-      
-                    
+
+        GenericsTester1 hey = new GenericsTester1();
         
        return result;       
     }
